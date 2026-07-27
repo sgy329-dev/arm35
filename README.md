@@ -15,7 +15,9 @@ DXCore 버전: 10.0.26100.1-240331-1435.ge-release
 Windows 버전: 10.0.26200.8655
 
 
+
 === ARM 35H 환경 점검 2026-07-27 12:47:12 ===
+
 
 [INFO] Host  : Linux 6.18.33.2-microsoft-standard-WSL2 x86_64 GNU/Linux
 
@@ -24,6 +26,7 @@ Windows 버전: 10.0.26200.8655
 [INFO] User  : root  Shell: /bin/bash
 
 ---- 필수 도구 ----
+
 [OK ] gcc : gcc (Ubuntu 13.3.0-6ubuntu2 24.04.1) 13.3.0
 
 [OK ] make : GNU Make 4.3
@@ -35,6 +38,7 @@ Windows 버전: 10.0.26200.8655
 [OK ] minicom : minicom version 2.9
 
 ---- 크로스 툴체인 (Modern: AArch64) ----
+
 [OK ] aarch64-linux-gnu-gcc : aarch64-linux-gnu-gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
 
 [OK ] qemu-aarch64 : qemu-aarch64 version 8.2.2 (Debian 1:8.2.2+ds-0ubuntu1.17)
